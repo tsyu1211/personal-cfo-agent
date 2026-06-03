@@ -2,3 +2,8 @@
 __pycache__/
 .env
 *.pyc
+node_modules/
+.next/
+out/
+.vercel
+*.tsbuildinfo
